@@ -3,7 +3,7 @@ Hi! This document has been prepared to assist developers who will integrate Croc
 # What is Croct?
 _Understand who we are._
 
-Croct é uma plataforma SaaS que fornece tecnologia para personalização em tempo real. Fornecemos dados de clientes unificados e gerenciados para profissionais de marketing, gerentes de produto e engenheiros de software para gerar insights, alternar recursos para atender às necessidades exclusivas de cada cliente e gerar receita com mensagens oportunas e relevantes. A plataforma também foi projetada para desenvolvedores, permitindo que eles se concentrem na criação de ótimos produtos em vez de infraestrutura de personalização cara.
+Croct is a SaaS platform that provides technology for real-time personalization. We provide unified, managed customer data to marketers, product managers and software engineers to generate insights, rotate resources to meet each customer's unique needs, and monetize timely and relevant messaging. The platform is also designed for developers, allowing them to focus on building great products instead of expensive customization infrastructure.
 
 ## Our methods
 _Understand what we do._
